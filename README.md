@@ -1,1 +1,1 @@
-# dummy_test_libgit2
+# dummy_test_libgit2 fo librgit2 test cases
